@@ -1,0 +1,7 @@
+/* MyPlugin - Custom Login Styles */
+
+body.login { background-image:url(https://www.pixelstalk.net/wp-content/uploads/images1/Blur-Background-Slide-Background-Images-Blur-Image-Dslr.jpg);}
+body.login div#login form#loginform { border-radius: 20px; background:rgba(0,0,0,0.4);}
+body.login .custom-message { text-align: center;color:gray;}
+body.login .message { text-align: center;background:rgba(0,0,0,0.0); color:gray;border-bottom:1px dotted gray;margin-top:20px;}
+body.login .input{border-radius: 10px; background:rgba(0,0,0,0.4);}
